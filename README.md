@@ -7,10 +7,6 @@ A Machine Learning web application that predicts a student's **Maths Score** bas
 
 🔗 **Project URL:** [Student Performance Predictor Live Demo](https://student-score-predictor-hj4u.onrender.com/predictdata?utm_source=chatgpt.com)
 
-## 📸 Demo
-
-![Student Performance Predictor Demo](c1c59978-85fb-481c-8698-d7207f47e4d9.png)
-
 ## 🛠️ Technologies Used
 
 * Python
